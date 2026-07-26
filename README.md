@@ -1,4 +1,4 @@
-# Laravel Interview Task
+# Laravel Task
 
 Welcome! This project is pre‑configured with Docker. Please follow the steps below to get started.
 
